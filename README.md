@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![个人微信公众号](https://camo.githubusercontent.com/de2c4aeef3777a7eeb1549c4bf44a22e46735d9c065b8c5b9e4543b93b8e2082/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f6d69616e73686962612f706963732f646576346c6966652534302545382538442538392545362539362539392545342542412538432545372542422542342545372541302538312e767566347168327962382e706e67)
+![个人微信公众号](https://cdn.jsdelivr.net/gh/mianshiba/pics/dev4life%40%E8%8D%89%E6%96%99%E4%BA%8C%E7%BB%B4%E7%A0%81.vuf4qh2yb8.png 200x200)
 
 <!--
 **mianshiba/mianshiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
