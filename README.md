@@ -2,6 +2,8 @@
 
 ![个人微信公众号](https://cdn.jsdelivr.net/gh/mianshiba/pics/dev4life%40%E8%8D%89%E6%96%99%E4%BA%8C%E7%BB%B4%E7%A0%81.vuf4qh2yb8.png =250x250)
 
+<img src="https://cdn.jsdelivr.net/gh/mianshiba/pics/dev4life%40%E8%8D%89%E6%96%99%E4%BA%8C%E7%BB%B4%E7%A0%81.vuf4qh2yb8.png" data-canonical-src="https://cdn.jsdelivr.net/gh/mianshiba/pics/dev4life%40%E8%8D%89%E6%96%99%E4%BA%8C%E7%BB%B4%E7%A0%81.vuf4qh2yb8.png" width="200" height="200" />
+
 <!--
 **mianshiba/mianshiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
