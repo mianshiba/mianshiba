@@ -1,6 +1,13 @@
-### Hi there 👋
+### 欢迎来到这里 👋
+
 
 <img src="https://cdn.jsdelivr.net/gh/mianshiba/pics/dev4life%40%E8%8D%89%E6%96%99%E4%BA%8C%E7%BB%B4%E7%A0%81.vuf4qh2yb8.png" data-canonical-src="https://cdn.jsdelivr.net/gh/mianshiba/pics/dev4life%40%E8%8D%89%E6%96%99%E4%BA%8C%E7%BB%B4%E7%A0%81.vuf4qh2yb8.png" width="150" height="200" />
+
+<img src="https://cdn.jsdelivr.net/gh/mianshiba/pics/%E9%9D%A2%E8%AF%95%E9%A9%BF%E7%AB%99%40%E8%8D%89%E6%96%99%E4%BA%8C%E7%BB%B4%E7%A0%81.aw9n1zsiv9i.png" data-canonical-src="https://cdn.jsdelivr.net/gh/mianshiba/pics/%E9%9D%A2%E8%AF%95%E9%A9%BF%E7%AB%99%40%E8%8D%89%E6%96%99%E4%BA%8C%E7%BB%B4%E7%A0%81.aw9n1zsiv9i.png" width="150" height="200" />
+
+这个github，不会有开源技术的repos，只会分享个人成长感悟与技术面试，甚至还有一些搞钱的内容。
+
+我知道
 
 <!--
 **mianshiba/mianshiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
